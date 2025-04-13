@@ -1,0 +1,46 @@
+body{
+    background-size:contain;
+  background-image:url(" back.jpg");
+  
+ }
+#nav{
+     
+     height:60px;
+    background-color: rgb(22, 22, 49);
+    
+}
+a{
+    text-decoration: none;
+    background-color:rgb(22, 22, 49);
+    margin-right: 300px;
+    margin-left: 40px;
+    margin-top:100px;
+}
+#logo{
+    font-size: 35px;
+}
+#f{
+    color:rgb(6, 113, 91);
+    font-size: size 100px;
+}
+ 
+pre{
+    background-color:  rgba(255,255,255,0.7);
+    font-family: Helvetica sans-serif;
+    font-size:20px
+}
+
+
+ 
+
+ 
+ div{
+    padding-left:10%
+ }
+ #next{
+    font-size:30px
+ }
+ tr{
+    font-size:20px
+ }
+ 
